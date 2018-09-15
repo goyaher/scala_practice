@@ -1,0 +1,1 @@
+The default value of "spark.master" is spark://HOST:PORT, and the following code tries to get a session from the standalone cluster that is running at HOST:PORT, and expects the HOST:PORT value to be in the spark config file.
